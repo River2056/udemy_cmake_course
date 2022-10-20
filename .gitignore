@@ -109,3 +109,5 @@ loguru/
 [Rr]eleases/
 x64/
 x86/
+
+.ccls-cache

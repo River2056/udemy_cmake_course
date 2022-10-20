@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/test_add_lib/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe -o CMakeFiles\\hello_world.dir\\src\\main.cpp.obj -c C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\test_add_lib\\src\\main.cpp",
+  "file": "C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\test_add_lib\\src\\main.cpp"
+},
+{
+  "directory": "C:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/test_add_lib/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe -o lib\\CMakeFiles\\lib.dir\\impl\\greet.cpp.obj -c C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\test_add_lib\\lib\\impl\\greet.cpp",
+  "file": "C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\test_add_lib\\lib\\impl\\greet.cpp"
+}
+]
