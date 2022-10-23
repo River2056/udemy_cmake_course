@@ -1,1 +1,2 @@
-add_library(lib ./impl/greet.cpp)
+file(GLOB sources "./impl/**.cpp")
+add_library(lib ${sources})
