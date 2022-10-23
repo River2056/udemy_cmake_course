@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/cpp_projects/udemy_cmake_course/2_CMake/2_BasicProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\C__~1.EXE -o CMakeFiles\\lib.dir\\my_lib.cpp.obj -c D:\\cpp_projects\\udemy_cmake_course\\2_CMake\\2_BasicProject\\my_lib.cpp",
+  "file": "D:\\cpp_projects\\udemy_cmake_course\\2_CMake\\2_BasicProject\\my_lib.cpp"
+},
+{
+  "directory": "D:/cpp_projects/udemy_cmake_course/2_CMake/2_BasicProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\C__~1.EXE -o CMakeFiles\\BasicProject.dir\\main.cpp.obj -c D:\\cpp_projects\\udemy_cmake_course\\2_CMake\\2_BasicProject\\main.cpp",
+  "file": "D:\\cpp_projects\\udemy_cmake_course\\2_CMake\\2_BasicProject\\main.cpp"
+}
+]

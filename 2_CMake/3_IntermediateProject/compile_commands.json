@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/cpp_projects/udemy_cmake_course/2_CMake/3_IntermediateProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\C__~1.EXE -ID:/cpp_projects/udemy_cmake_course/2_CMake/3_IntermediateProject/src/include -o src\\CMakeFiles\\lib.dir\\my_lib.cpp.obj -c D:\\cpp_projects\\udemy_cmake_course\\2_CMake\\3_IntermediateProject\\src\\my_lib.cpp",
+  "file": "D:\\cpp_projects\\udemy_cmake_course\\2_CMake\\3_IntermediateProject\\src\\my_lib.cpp"
+},
+{
+  "directory": "D:/cpp_projects/udemy_cmake_course/2_CMake/3_IntermediateProject/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\C__~1.EXE -ID:/cpp_projects/udemy_cmake_course/2_CMake/3_IntermediateProject/src/include -o app\\CMakeFiles\\IntermediateProject.dir\\main.cpp.obj -c D:\\cpp_projects\\udemy_cmake_course\\2_CMake\\3_IntermediateProject\\app\\main.cpp",
+  "file": "D:\\cpp_projects\\udemy_cmake_course\\2_CMake\\3_IntermediateProject\\app\\main.cpp"
+}
+]
