@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/5_ConfigureFile/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe -IC:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/5_ConfigureFile/src/include -IC:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/5_ConfigureFile/build/configured_files/include -std=c++17 -o src\\my_lib\\CMakeFiles\\lib.dir\\my_lib.cpp.obj -c C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\5_ConfigureFile\\src\\my_lib\\my_lib.cpp",
+  "file": "C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\5_ConfigureFile\\src\\my_lib\\my_lib.cpp"
+},
+{
+  "directory": "C:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/5_ConfigureFile/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe -IC:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/5_ConfigureFile/src/include -IC:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/5_ConfigureFile/build/configured_files/include -std=c++17 -o app\\CMakeFiles\\executable.dir\\main.cpp.obj -c C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\5_ConfigureFile\\app\\main.cpp",
+  "file": "C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\5_ConfigureFile\\app\\main.cpp"
+}
+]

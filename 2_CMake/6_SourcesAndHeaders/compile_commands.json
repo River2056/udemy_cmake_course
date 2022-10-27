@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/6_SourcesAndHeaders/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe -IC:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/6_SourcesAndHeaders/src/include -IC:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/6_SourcesAndHeaders/build/configured_files/include -std=c++17 -o src\\my_lib\\CMakeFiles\\lib.dir\\my_lib.cpp.obj -c C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\6_SourcesAndHeaders\\src\\my_lib\\my_lib.cpp",
+  "file": "C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\6_SourcesAndHeaders\\src\\my_lib\\my_lib.cpp"
+},
+{
+  "directory": "C:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/6_SourcesAndHeaders/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe -IC:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/6_SourcesAndHeaders/src/include -IC:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/6_SourcesAndHeaders/build/configured_files/include -std=c++17 -o src\\my_lib\\CMakeFiles\\lib.dir\\my_lib_2.cpp.obj -c C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\6_SourcesAndHeaders\\src\\my_lib\\my_lib_2.cpp",
+  "file": "C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\6_SourcesAndHeaders\\src\\my_lib\\my_lib_2.cpp"
+},
+{
+  "directory": "C:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/6_SourcesAndHeaders/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe -IC:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/6_SourcesAndHeaders/src/include -IC:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/6_SourcesAndHeaders/build/configured_files/include -std=c++17 -o app\\CMakeFiles\\executable.dir\\main.cpp.obj -c C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\6_SourcesAndHeaders\\app\\main.cpp",
+  "file": "C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\6_SourcesAndHeaders\\app\\main.cpp"
+}
+]

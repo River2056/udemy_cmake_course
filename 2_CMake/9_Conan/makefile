@@ -1,0 +1,20 @@
+exe_name := executable
+
+all: run
+
+clean:
+	rm -rf ./build
+	mkdir build
+	cd build && conan install --build=missing .. && cd ..
+
+build: clean
+	cmake -S . -B ./build
+	cmake --build ./build
+
+run: build
+	./build/app/Debug/$(exe_name).exe
+
+generate: clean
+	cmake -S . -B ./build -GNinja
+	cmake --build ./build
+	mv ./build/compile_commands.json .

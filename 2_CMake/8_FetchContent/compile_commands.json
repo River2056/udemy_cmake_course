@@ -1,0 +1,62 @@
+[
+{
+  "directory": "C:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/8_FetchContent/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe -IC:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/8_FetchContent/build/_deps/fmt-src/include -O3 -DNDEBUG -std=c++17 -o _deps\\fmt-build\\CMakeFiles\\fmt.dir\\src\\format.cc.obj -c C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\8_FetchContent\\build\\_deps\\fmt-src\\src\\format.cc",
+  "file": "C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\8_FetchContent\\build\\_deps\\fmt-src\\src\\format.cc"
+},
+{
+  "directory": "C:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/8_FetchContent/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe -IC:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/8_FetchContent/build/_deps/fmt-src/include -O3 -DNDEBUG -std=c++17 -o _deps\\fmt-build\\CMakeFiles\\fmt.dir\\src\\os.cc.obj -c C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\8_FetchContent\\build\\_deps\\fmt-src\\src\\os.cc",
+  "file": "C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\8_FetchContent\\build\\_deps\\fmt-src\\src\\os.cc"
+},
+{
+  "directory": "C:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/8_FetchContent/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe -DSPDLOG_COMPILED_LIB -IC:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/8_FetchContent/build/_deps/spdlog-src/include -O3 -DNDEBUG -std=c++17 -o _deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\spdlog.cpp.obj -c C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\8_FetchContent\\build\\_deps\\spdlog-src\\src\\spdlog.cpp",
+  "file": "C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\8_FetchContent\\build\\_deps\\spdlog-src\\src\\spdlog.cpp"
+},
+{
+  "directory": "C:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/8_FetchContent/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe -DSPDLOG_COMPILED_LIB -IC:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/8_FetchContent/build/_deps/spdlog-src/include -O3 -DNDEBUG -std=c++17 -o _deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\stdout_sinks.cpp.obj -c C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\8_FetchContent\\build\\_deps\\spdlog-src\\src\\stdout_sinks.cpp",
+  "file": "C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\8_FetchContent\\build\\_deps\\spdlog-src\\src\\stdout_sinks.cpp"
+},
+{
+  "directory": "C:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/8_FetchContent/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe -DSPDLOG_COMPILED_LIB -IC:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/8_FetchContent/build/_deps/spdlog-src/include -O3 -DNDEBUG -std=c++17 -o _deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\color_sinks.cpp.obj -c C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\8_FetchContent\\build\\_deps\\spdlog-src\\src\\color_sinks.cpp",
+  "file": "C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\8_FetchContent\\build\\_deps\\spdlog-src\\src\\color_sinks.cpp"
+},
+{
+  "directory": "C:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/8_FetchContent/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe -DSPDLOG_COMPILED_LIB -IC:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/8_FetchContent/build/_deps/spdlog-src/include -O3 -DNDEBUG -std=c++17 -o _deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\file_sinks.cpp.obj -c C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\8_FetchContent\\build\\_deps\\spdlog-src\\src\\file_sinks.cpp",
+  "file": "C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\8_FetchContent\\build\\_deps\\spdlog-src\\src\\file_sinks.cpp"
+},
+{
+  "directory": "C:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/8_FetchContent/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe -DSPDLOG_COMPILED_LIB -IC:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/8_FetchContent/build/_deps/spdlog-src/include -O3 -DNDEBUG -std=c++17 -o _deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\async.cpp.obj -c C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\8_FetchContent\\build\\_deps\\spdlog-src\\src\\async.cpp",
+  "file": "C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\8_FetchContent\\build\\_deps\\spdlog-src\\src\\async.cpp"
+},
+{
+  "directory": "C:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/8_FetchContent/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe -DSPDLOG_COMPILED_LIB -IC:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/8_FetchContent/build/_deps/spdlog-src/include -O3 -DNDEBUG -std=c++17 -o _deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\cfg.cpp.obj -c C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\8_FetchContent\\build\\_deps\\spdlog-src\\src\\cfg.cpp",
+  "file": "C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\8_FetchContent\\build\\_deps\\spdlog-src\\src\\cfg.cpp"
+},
+{
+  "directory": "C:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/8_FetchContent/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe -DSPDLOG_COMPILED_LIB -IC:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/8_FetchContent/build/_deps/spdlog-src/include -O3 -DNDEBUG -std=c++17 -o _deps\\spdlog-build\\CMakeFiles\\spdlog.dir\\src\\fmt.cpp.obj -c C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\8_FetchContent\\build\\_deps\\spdlog-src\\src\\fmt.cpp",
+  "file": "C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\8_FetchContent\\build\\_deps\\spdlog-src\\src\\fmt.cpp"
+},
+{
+  "directory": "C:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/8_FetchContent/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe -IC:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/8_FetchContent/src/include -IC:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/8_FetchContent/build/configured_files/include -O3 -DNDEBUG -std=c++17 -o src\\my_lib\\CMakeFiles\\lib.dir\\my_lib.cpp.obj -c C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\8_FetchContent\\src\\my_lib\\my_lib.cpp",
+  "file": "C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\8_FetchContent\\src\\my_lib\\my_lib.cpp"
+},
+{
+  "directory": "C:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/8_FetchContent/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe -IC:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/8_FetchContent/src/include -IC:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/8_FetchContent/build/configured_files/include -O3 -DNDEBUG -std=c++17 -o src\\my_lib\\CMakeFiles\\lib.dir\\my_lib_2.cpp.obj -c C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\8_FetchContent\\src\\my_lib\\my_lib_2.cpp",
+  "file": "C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\8_FetchContent\\src\\my_lib\\my_lib_2.cpp"
+},
+{
+  "directory": "C:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/8_FetchContent/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe -IC:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/8_FetchContent/build/_dep/fmt-src/include -IC:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/8_FetchContent/build/_dep/spdlog-src/include -IC:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/8_FetchContent/src/include -IC:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/8_FetchContent/build/configured_files/include -IC:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/8_FetchContent/build/_deps/fmt-src/include -IC:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/8_FetchContent/build/_deps/spdlog-src/include -O3 -DNDEBUG -std=c++17 -o app\\CMakeFiles\\executable.dir\\main.cpp.obj -c C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\8_FetchContent\\app\\main.cpp",
+  "file": "C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\8_FetchContent\\app\\main.cpp"
+}
+]

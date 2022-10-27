@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/4_VariablesOptions/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe -IC:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/4_VariablesOptions/src/include -std=c++17 -o src\\my_lib\\CMakeFiles\\lib.dir\\my_lib.cpp.obj -c C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\4_VariablesOptions\\src\\my_lib\\my_lib.cpp",
+  "file": "C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\4_VariablesOptions\\src\\my_lib\\my_lib.cpp"
+},
+{
+  "directory": "C:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/4_VariablesOptions/build",
+  "command": "C:\\ProgramData\\chocolatey\\bin\\c++.exe -IC:/Users/H0268/Desktop/UdemyCmake_Template/2_CMake/4_VariablesOptions/src/include -std=c++17 -o app\\CMakeFiles\\executable.dir\\main.cpp.obj -c C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\4_VariablesOptions\\app\\main.cpp",
+  "file": "C:\\Users\\H0268\\Desktop\\UdemyCmake_Template\\2_CMake\\4_VariablesOptions\\app\\main.cpp"
+}
+]
